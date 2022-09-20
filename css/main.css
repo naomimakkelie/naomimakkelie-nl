@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+figure {
+}
+
+img {
+  max-width: 95vmin;
+  max-height: 95vmin;
+  margin: auto;
+}
+
+figcaption {
+  max-width: 95vmin;
+  margin: auto;
+}
